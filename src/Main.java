@@ -11,6 +11,6 @@ public class Main {
         }
 
         System.out.println("Ваш баланс: " + balance + " рублей");
-
+        System.out.println("Ваш бонус: " replenishment / balance + " рублей"
     }
 }
